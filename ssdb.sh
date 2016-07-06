@@ -1,5 +1,5 @@
 # ssdb install
-yum -y install wget unzip gcc gcc-c++ autoconf
+yum -y install wget unzip gcc gcc-c++ autoconf snappy-devel
 
 cd /tmp
 wget --no-check-certificate https://github.com/ideawu/ssdb/archive/master.zip  -O ssdb.zip
