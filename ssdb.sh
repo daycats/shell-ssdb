@@ -1,4 +1,3 @@
-
 # ssdb install
 yum -y install wget unzip gcc gcc-c++ autoconf
 
